@@ -7,14 +7,16 @@
     🍏 When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains! 🏔️</p>
 </div>
 
+###
+
 <br clear="both">
-<img align="left" height="150" src="https://raw.githubusercontent.com/tanhaow/tanhaow/output/snake.svg" alt="Snake animation" />
-<img align="right" height="150" src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" />
+<img align="left" height="130" src="https://raw.githubusercontent.com/tanhaow/tanhaow/output/snake.svg" alt="Snake animation" />
+<img align="right" height="130" src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" />
 <br clear="both">
 
 ###
 
-<div align="left" height="80">
+<div align="left" height="60">
   <a href="mailto:tanhao@seas.upenn.edu?subject=Connect%20from%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
