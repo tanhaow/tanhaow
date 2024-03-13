@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently pursuing a CS master's at the University of Pennsylvania.<br><br>🎨 I have an interdisciplinary background in both art design and computer science. I'm on my journey to become a creative developer who can engage arts and technology.<br><br>👩🏻‍💻 I love brainstorming and developing cool apps that apply the latest technologies to solve practical problems in daily life. It brings me great satisfaction.<br><br>🏔️ When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains!</p>
+<p align="left">🎓 I'm currently pursuing a CS master's at the University of Pennsylvania. 👩🏻‍💻<br><br>🎨 I have an interdisciplinary background in both art design and computer science. I'm on my journey to become a creative developer who can engage arts and technology. ✨<br><br>⚙️ I love brainstorming and developing cool apps that apply the latest technologies to solve practical problems in daily life. It brings me great satisfaction. 💕<br><br>🍏 When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains! 🏔️</p>
 
 ###
 
@@ -24,7 +24,19 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tanhaow/tanhaow/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhaow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
@@ -41,11 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tanhaow/tanhaow/output/snake.svg" alt="Snake animation" />
 
 ###
