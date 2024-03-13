@@ -5,16 +5,14 @@
     🎨 I have an interdisciplinary background in both art design and computer science. I'm on my journey to become a creative developer who can engage arts and technology. ✨<br><br>
     ⚙️ I love brainstorming and developing cool apps that apply the latest technologies to solve practical problems in daily life. It brings me great satisfaction. 💕<br><br>
     🍏 When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains! 🏔️</p>
-    <img align="right" height="165" src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" />
 </div>
 
 <br clear="both">
-
 <img align="left" height="150" src="https://raw.githubusercontent.com/tanhaow/tanhaow/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" />
+<br clear="both">
 
 ###
-
-<br clear="both">
 
 <div align="left" height="80">
   <a href="mailto:tanhao@seas.upenn.edu?subject=Connect%20from%20GitHub" target="_blank">
