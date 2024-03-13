@@ -1,9 +1,9 @@
 <h2 align="left">Hi there, my name is Hao</h2>
 
 
-<table>
+<table style="border: none;">
 <tr>
-<td valign="top">
+<td valign="top" style="border: none;">
 
 🎓 I'm currently pursuing a CS master's at the University of Pennsylvania. 👩🏻‍💻
 
@@ -14,9 +14,9 @@
 🍏 When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains! 🏔️
 
 </td>
-<td>
+<td style="border: none;">
 
-<img src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" height="160" /><br>
+<img src="https://media.tenor.com/Yb9m-oHU20QAAAAi/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97.gif" height="160" />
 
 <a href="https://www.linkedin.com/in/tan-hao/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -28,6 +28,7 @@
 </td>
 </tr>
 </table>
+
 
 
 ###
