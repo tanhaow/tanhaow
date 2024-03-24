@@ -5,7 +5,7 @@
 <tr>
 <td valign="top" style="border: none;">
 
-🎓 I'm currently pursuing a CS master's at the University of Pennsylvania. 👩🏻‍💻
+🎓 I'm currently pursuing a CS master's degree at the University of Pennsylvania. 👩🏻‍💻
 
 🎨 I have an interdisciplinary background in both art design and computer science. I'm on my journey to become a creative developer who can engage arts and technology. ✨
 
