@@ -7,7 +7,7 @@
 
 🎓 I'm currently pursuing a CS master's degree at the University of Pennsylvania. 👩🏻‍💻
 
-🎨 I have an interdisciplinary background in art history and computer science. I'm on my journey to become a creative developer who can engage art and technology. ✨
+🎨 I have an interdisciplinary background in media art and computer science. I'm on my journey to become a creative developer who can engage art and technology. ✨
 
 ⚙️ I love brainstorming and developing cool apps that apply the latest technologies to solve practical problems in daily life. It brings me great satisfaction! 💕
 
